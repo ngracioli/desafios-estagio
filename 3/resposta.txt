@@ -1,0 +1,20 @@
+a) A sequência é de números ímpares em ordem. Então, o próximo número será 9.
+
+b) A sequência é uma progressão geométrica, onde cada número é o dobro do anterior. Então, o próximo número será 128.
+
+c) A sequência é feita pelos quadrados dos números naturais, começando a partir de 0. Então, o próximo número será 7^2, ou seja, 49.
+
+d) A sequência é feita de quadrados de números pares em seguida. 2^2 = 4, 4^2 = 16, 6^2 = 36, 8^2 = 64. Então, o próximo número será 10^2, ou seja, 100.
+
+e) A sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Então, o próximo número será 5 + 8, ou seja, 13.
+
+f) A sequência envolve os números Naturais que começam com a letra D. Então, o próximo número será 200.
+
+
+Em resumo, os próximos elementos são:
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 200
